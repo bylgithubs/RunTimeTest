@@ -1,0 +1,6 @@
+framework module Pods_RunTimeTest {
+  umbrella header "Pods-RunTimeTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
